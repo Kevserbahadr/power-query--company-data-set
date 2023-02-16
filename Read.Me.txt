@@ -1,0 +1,3 @@
+şirkete çalışan onlarca insanın verisi verilmiştir.
+Yaptığımız ise şirketlerde çalışan kadın ve erkeklerin maaşlarının ortalamasını bulmaktır,
+her şirkete yeni biri girdiğinde ve kayıdı tutulduğunda yenile ile tabloya eklenecektir.
